@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Ilmi Setia
 
 Welcome to my GitHub Profile!  
-I'm passionate about data analysis, tech, and creating efficient solutions. You can check out [My Resume](https://www.linkedin.com/in/ilmi-bilquish/) here!
+I'm passionate about data analysis, tech, and creating efficient solutions. You can check out [My Resume](https://www.linkedin.com/in/ilmi-bilquish/) here
 
 #### 💡Fun Fact about Me
-I used to design buildings, and now I design dashboards — turns out, structure and storytelling matter in both!
-
+Transitioning from architecture to data analytics, I went from calculating square footage to calculating business impact!
 
 #### 💻Projects
 Take a look at projects I have worked at [My Portfolio](https://www.linkedin.com/in/ilmi-bilquish/)
