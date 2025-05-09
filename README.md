@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ilmi Setia
+# 👋 Hi, I'm Ilmi Bilquish Setia
 
 Welcome to my GitHub Profile!  
 I'm passionate about data analysis, tech, and creating efficient solutions. You can check out [My Resume](https://www.linkedin.com/in/ilmi-bilquish/) here
