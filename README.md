@@ -17,10 +17,10 @@ As someone who transitioned careers, I understand that starting again requires c
 - Penetration Testing
 
 #### 💻Projects
-Take a look at projects I have worked at [My Portfolio](https://www.linkedin.com/in/ilmi-bilquish/)
+Take a look at projects I have worked at [My Portfolio](https://github.com/Ilmi91/Project-Guide)
 
 #### 📫Connect with Me
-[LinkedIn](https://www.linkedin.com/in/ilmi-bilquish/)
+🔗 [LinkedIn](https://www.linkedin.com/in/ilmi-bilquish/)
 
 
 <!---
